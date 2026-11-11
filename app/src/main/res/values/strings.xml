@@ -1,0 +1,3 @@
+<resources>
+    <string name="service_desc">ShmulfTyper печатает заготовленный текст по буквам в поле ввода и показывает плавающую панель управления.</string>
+</resources>
